@@ -56,17 +56,37 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 6. Lazy Loading with Intersection Observer
+    // Mobile Dropdown Toggle
+    const dropdownToggles = document.querySelectorAll('.has-dropdown > a');
+    dropdownToggles.forEach(toggle => {
+        toggle.addEventListener('click', (e) => {
+            if (window.innerWidth <= 992) {
+                e.preventDefault();
+                const parent = toggle.parentElement;
+                parent.classList.toggle('active');
+            }
+        });
+    });
+
+    // 6. Lazy Loading with Intersection Observer - Optimized
     const lazyImages = document.querySelectorAll('img.lazy');
     const imageObserver = new IntersectionObserver((entries, observer) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const img = entry.target;
-                // Since this is a static site with local images, we just mark it as loaded
+
+                // Actual lazy loading: Swap data-src to src if it exists
+                if (img.dataset.src) {
+                    img.src = img.dataset.src;
+                }
+
                 img.classList.add('loaded');
                 observer.unobserve(img);
             }
         });
+    }, {
+        rootMargin: '100px 0px', // Start loading 100px before reaching the image
+        threshold: 0.01
     });
     lazyImages.forEach(img => imageObserver.observe(img));
 
@@ -229,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 13. [WHATSAPP] Lead Form Submission Logic
     const leadForm = document.getElementById("leadForm");
-    const whatsappNumber = "917015518275";
+    const whatsappNumber = "917450053004";
 
     const sendToWhatsApp = (form, e) => {
         e.preventDefault();

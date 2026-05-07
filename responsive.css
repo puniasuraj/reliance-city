@@ -107,6 +107,10 @@ body {
         min-height: auto;
     }
 
+    .hero-bg-parallax {
+        background-attachment: scroll !important;
+    }
+
     .hero-grid {
         grid-template-columns: 1fr;
         gap: 30px;
