@@ -153,38 +153,7 @@
     <div id="scroll-progress"></div>
 
     <!-- Header -->
-    <header id="navbar">
-        <nav class="container">
-            <div class="logo">
-                <a href="index.html"><img src="assets/logo.webp" alt="Reliance MET City Logo" decoding="async"></a>
-            </div>
-
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">About Us</a></li>
-                <li class="has-dropdown">
-                    <a href="#services">Services <i class="fas fa-chevron-down" style="font-size: 0.8rem;"></i></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="residential-plots.html">Residential Plots</a></li>
-                        <li><a href="industrial-plots.html">Industrial Plots</a></li>
-                        <li><a href="commercial-plots.html">Commercial Plots</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-
-            <div class="nav-actions">
-                <a href="contact.html" class="nav-cta">Inquire</a>
-            </div>
-
-            <div class="mobile-toggle" id="mobile-menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </nav>
-    </header>
+    <?php include 'header.php'; ?>
 
     <main>
         <!-- Hero Section -->
@@ -246,7 +215,7 @@
                             For business owners and investors, industrial plots in Reliance MET City present a promising opportunity for expansion and long-term returns. Its strategic location near major highways and key markets ensures excellent connectivity, making it an ideal destination for manufacturing units, warehousing facilities, and logistics hubs.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
-                            <a href="about-us.html" class="btn-gold-sm">Know More</a>
+                            <a href="about-us" class="btn-gold-sm">Know More</a>
                         </div>
                     </div>
                     <div class="about-image-wrapper reveal">
@@ -326,7 +295,7 @@
                                 <li><i class="fas fa-check"></i> 24/7 Security</li>
                                 <li><i class="fas fa-check"></i> Premium Lifestyle</li>
                             </ul>
-                            <a href="residential-plots.html" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
+                            <a href="residential-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -343,7 +312,7 @@
                                 <li><i class="fas fa-check"></i> Robust Power Supply</li>
                                 <li><i class="fas fa-check"></i> Business Growth</li>
                             </ul>
-                            <a href="industrial-plots.html" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
+                            <a href="industrial-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -360,7 +329,7 @@
                                 <li><i class="fas fa-check"></i> Massive Footfall</li>
                                 <li><i class="fas fa-check"></i> Commercial Growth</li>
                             </ul>
-                            <a href="commercial-plots.html" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
+                            <a href="commercial-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -440,7 +409,7 @@
                             <div class="feature-item"><span>✓</span> Prime Location</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply">Contact Us</a>
                         </div>
                     </div>
 
@@ -458,7 +427,7 @@
                             <div class="feature-item"><span>✓</span> 18mtr Wide Road</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply primary">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply primary">Contact Us</a>
                         </div>
                     </div>
 
@@ -476,7 +445,7 @@
                             <div class="feature-item"><span>✓</span> World-Class Utilities</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply">Contact Us</a>
                         </div>
                     </div>
 
@@ -494,7 +463,7 @@
                             <div class="feature-item"><span>✓</span> Luxury Living</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply">Contact Us</a>
                         </div>
                     </div>
 
@@ -512,7 +481,7 @@
                             <div class="feature-item"><span>✓</span> Reliance Heritage</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply">Contact Us</a>
                         </div>
                     </div>
 
@@ -530,7 +499,7 @@
                             <div class="feature-item"><span>✓</span> Strategic ROI</div>
                         </div>
                         <div class="price-footer">
-                            <a href="/contact.html" class="btn-price-apply">Contact Us</a>
+                            <a href="/contact.php" class="btn-price-apply">Contact Us</a>
                         </div>
                     </div>
 
@@ -1063,61 +1032,7 @@
         </section>
     </main>
 
-    <footer class="bg-black">
-        <div class="container footer-grid reveal">
-            <div class="footer-brand">
-                <div class="logo-footer">
-                    <a href="index.html">
-                        <img class="lazy" data-src="assets/logo.webp"
-                            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"
-                            alt="Reliance MET City Logo" class="footer-logo-img" loading="lazy" decoding="async">
-                    </a>
-                </div>
-                <p>An elite integrated township initiative by Reliance Industries Limited, redefining luxury living and
-                    industrial excellence in the NCR region.</p>
-            </div>
-            <div class="footer-links">
-                <h4>Quick Links</h4>
-                <ul>
-                    <li><a href="#hero">Home</a></li>
-                    <li><a href="#who-we-are">About Us</a></li>
-                    <li><a href="#property-listing">Visual Gallery</a></li>
-                    <li><a href="#pricing">Plot Pricing</a></li>
-                </ul>
-            </div>
-            <div class="footer-links">
-                <h4>Our Services</h4>
-                <ul>
-                    <li><a href="residential-plots.html">Residential Plots</a></li>
-                    <li><a href="industrial-plots.html">Industrial Plots</a></li>
-                    <li><a href="commercial-plots.html">Commercial Plots</a></li>
-                    <li><a href="contact.html">Help & Support</a></li>
-                </ul>
-            </div>
-            <div class="footer-contact">
-                <h4>Contact Info</h4>
-                <p><i class="fas fa-map-marker-alt gold-text"></i> Sector 8, Met City, Yakubpur to Badli road, Jhajjar
-                    (Haryana), 124105</p>
-                <p><i class="fas fa-phone-alt gold-text"></i> <a href="tel:+917450053004">+91 7450053004</a></p>
-                <p><i class="fas fa-envelope gold-text"></i> <a
-                        href="mailto:info@metjhajjarplots.com">info@metjhajjarplots.com</a></p>
-            </div>
-        </div>
-        <div class="footer-bottom text-center">
-            <p>&copy; 2025 Reliance MET City Plots. Commercial & Residential Township.</p>
-        </div>
-    </footer>
-
-    <div class="floating-contact-wrap">
-        <a href="https://wa.me/917450053004" class="floating-icon whatsapp" target="_blank" data-label="WhatsApp Us">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-        <a href="tel:7450053004" class="floating-icon callback" data-label="Call Us">
-            <i class="fas fa-phone-alt"></i>
-        </a>
-    </div>
-
-    <script src="script.js"></script>
+    <?php include 'footer.php'; ?>
 </body>
 
 </html>

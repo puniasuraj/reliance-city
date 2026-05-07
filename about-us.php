@@ -22,38 +22,7 @@
     <div id="scroll-progress"></div>
 
     <!-- Header -->
-    <header id="navbar">
-        <nav class="container">
-            <div class="logo">
-                <a href="index.html"><img src="assets/logo.webp" alt="Reliance MET City Logo"></a>
-            </div>
-
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li class="active"><a href="about-us.html">About Us</a></li>
-                <li class="has-dropdown">
-                    <a href="/#services">Services <i class="fas fa-chevron-down" style="font-size: 0.8rem;"></i></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="residential-plots.html">Residential Plots</a></li>
-                        <li><a href="industrial-plots.html">Industrial Plots</a></li>
-                        <li><a href="commercial-plots.html">Commercial Plots</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-
-            <div class="nav-actions">
-                <a href="contact.html" class="nav-cta">Inquiry</a>
-            </div>
-
-            <div class="mobile-toggle" id="mobile-menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </nav>
-    </header>
+    <?php include 'header.php'; ?>
 
     <main>
         <!-- Enhanced Banner Section -->
@@ -81,7 +50,7 @@
                             Spanning thousands of acres, the township is engineered for the future—offering seamless connectivity to the KMP Expressway, robust 24/7 utility support, and a meticulously planned environment that balances heavy industry with serene luxury living.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
-                            <a href="contact.html" class="btn-gold-sm">Partner With Us</a>
+                            <a href="contact" class="btn-gold-sm">Partner With Us</a>
                         </div>
                     </div>
                     <div class="about-image-wrapper reveal">
@@ -186,47 +155,7 @@
         </section>
     </main>
 
-    <footer class="bg-black">
-        <div class="container footer-grid">
-            <div class="footer-brand">
-                <div class="logo-footer">
-                    <a href="index.html"><img src="assets/logo.webp" alt="Reliance MET City Logo"></a>
-                </div>
-                <p>An elite integrated township initiative by Reliance Industries Limited.</p>
-            </div>
-            <div class="footer-links">
-                <h4>Useful Links</h4>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                    <li><a href="residential-plots.html">Residential Plots</a></li>
-                    <li><a href="industrial-plots.html">Industrial Plots</a></li>
-                    <li><a href="commercial-plots.html">Commercial Plots</a></li>
-                </ul>
-            </div>
-            <div class="footer-contact">
-                <h4>Contact Info</h4>
-                <p><i class="fas fa-phone-alt gold-text"></i> <a href="tel:+917450053004">+91 7450053004</a></p>
-                <p><i class="fas fa-envelope gold-text"></i> <a href="mailto:info@metjhajjarplots.com">info@metjhajjarplots.com</a></p>
-            </div>
-        </div>
-        <div class="footer-bottom text-center">
-            <p>&copy; 2025 Model Economic Township.</p>
-        </div>
-    </footer>
-
-    <!-- Floating Icons -->
-    <div class="floating-contact-wrap">
-        <a href="https://wa.me/917450053004" class="floating-icon whatsapp" target="_blank" data-label="WhatsApp Us">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-        <a href="tel:7450053004" class="floating-icon callback" data-label="Call Us">
-            <i class="fas fa-phone-alt"></i>
-        </a>
-    </div>
-
-    <script src="script.js"></script>
+    <?php include 'footer.php'; ?>
 </body>
 
 </html>
