@@ -128,101 +128,22 @@
         <!-- Blog Grid -->
         <section class="bg-light">
             <div class="container blog-grid">
-                <!-- Blog Post 1 -->
+                <!-- Blog Post New -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
-                        <img src="assets/e_image_1.jpg" alt="Investment in MET City">
+                        <img src="assets/reliance city.webp" alt="Invest in MET City">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Investment</span>
-                            <span><i class="far fa-calendar-alt"></i> May 5, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> May 11, 2026</span>
                         </div>
-                        <h3 class="blog-title">Why Reliance MET City is the Ultimate Investment Hub in NCR</h3>
-                        <p class="blog-excerpt">Explore the strategic advantages and long-term ROI potential of investing in the rapidly growing integrated township of Reliance MET City.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
+                        <h3 class="blog-title">Is It Good to Invest in Reliance MET City?</h3>
+                        <p class="blog-excerpt">Explore whether it is good to invest in Reliance MET City, including location benefits, growth potential, risks, and expert insights for smart real estate investment.</p>
+                        <a href="is-it-good-to-invest-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </article>
 
-                <!-- Blog Post 2 -->
-                <article class="blog-card reveal" style="transition-delay: 0.1s;">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/e_image_2.jpg" alt="Industrial Growth">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Industrial</span>
-                            <span><i class="far fa-calendar-alt"></i> Apr 28, 2026</span>
-                        </div>
-                        <h3 class="blog-title">The Rise of Mega Industrial Corridors in Haryana</h3>
-                        <p class="blog-excerpt">How MET City's proximity to the KMP Expressway and modern infrastructure is attracting global manufacturing giants to Haryana.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post 3 -->
-                <article class="blog-card reveal" style="transition-delay: 0.2s;">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/house.jpg" alt="Luxury Living">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Lifestyle</span>
-                            <span><i class="far fa-calendar-alt"></i> Apr 15, 2026</span>
-                        </div>
-                        <h3 class="blog-title">A Glimpse into Luxury Living at MET City Residential Plots</h3>
-                        <p class="blog-excerpt">Discover world-class amenities, expansive green spaces, and a holistic lifestyle awaiting you at the residential sectors of MET City.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post 4 -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/commercial.png" alt="Commercial Opportunities">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Commercial</span>
-                            <span><i class="far fa-calendar-alt"></i> Mar 30, 2026</span>
-                        </div>
-                        <h3 class="blog-title">Top Reasons to Setup Your Retail Business in MET City</h3>
-                        <p class="blog-excerpt">With a projected massive footfall and high-visibility commercial plots, see why top retail brands are setting up shop here.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-                
-                <!-- Blog Post 5 -->
-                <article class="blog-card reveal" style="transition-delay: 0.1s;">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/e_image_4.jpg" alt="Sustainability">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Sustainability</span>
-                            <span><i class="far fa-calendar-alt"></i> Mar 12, 2026</span>
-                        </div>
-                        <h3 class="blog-title">Building a Green Future: Sustainable Infrastructure at MET</h3>
-                        <p class="blog-excerpt">Learn about the eco-friendly initiatives, water management systems, and renewable energy integrations that make MET City a green township.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post 6 -->
-                <article class="blog-card reveal" style="transition-delay: 0.2s;">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/plot.png" alt="Market Trends">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Real Estate</span>
-                            <span><i class="far fa-calendar-alt"></i> Feb 25, 2026</span>
-                        </div>
-                        <h3 class="blog-title">2026 Real Estate Trends: Why Jhajjar is the New Gurugram</h3>
-                        <p class="blog-excerpt">An in-depth analysis of property value appreciation and how Jhajjar is mirroring the success story of early Gurugram developments.</p>
-                        <a href="#" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
             </div>
         </section>
     </main>
