@@ -278,7 +278,7 @@ $meta_description = "Explore whether it is good to invest in Reliance MET City, 
                     <p>In this blog, we will understand everything about Reliance MET City, including its location advantages, infrastructure, future growth potential, investment benefits, risks, and whether it is truly a smart investment option.</p>
 
                     <h2 id="what-is-met-city">What is Reliance MET City?</h2>
-                    <p>Reliance MET City is a large integrated smart city and industrial township located in Jhajjar district, Haryana. The project is designed to combine industrial, residential, commercial, educational, and social infrastructure within one planned ecosystem.</p>
+                    <p><b><a href="https://metjhajjarplots.com/">Reliance MET City </a></b>is a large integrated smart city and industrial township located in Jhajjar district, Haryana. The project is designed to combine industrial, residential, commercial, educational, and social infrastructure within one planned ecosystem.</p>
                     <p>The idea behind MET City is to create a modern business and living destination where industries, offices, and residential communities can grow together. The township aims to attract global companies, manufacturing industries, startups, and professionals.</p>
                     <p>The project is being developed with modern urban planning concepts such as:</p>
                     <ul>
@@ -311,7 +311,7 @@ $meta_description = "Explore whether it is good to invest in Reliance MET City, 
                     <h3>Near Major Employment Zones</h3>
                     <p>The township is close to major business and industrial regions of:</p>
                     <ul>
-                        <li>Gurugram</li>
+                        <li><a href="https://en.wikipedia.org/wiki/Gurgaon">Gurugram</a></li>
                         <li>Manesar</li>
                         <li>Bahadurgarh</li>
                         <li>Delhi NCR</li>
