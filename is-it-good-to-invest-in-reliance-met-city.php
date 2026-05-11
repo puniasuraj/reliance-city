@@ -9,7 +9,7 @@ $meta_description = "Explore whether it is good to invest in Reliance MET City, 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title><?php echo $title; ?> - Reliance MET City</title>
+    <title><?php echo $title; ?></title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
     
