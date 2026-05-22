@@ -128,6 +128,22 @@
         <!-- Blog Grid -->
         <section class="bg-light">
             <div class="container blog-grid">
+                <!-- Blog Post: Plot Rate in Reliance Met City Jhajjar -->
+                <article class="blog-card reveal">
+                    <div class="blog-img-wrapper">
+                        <img src="assets/reliance city.webp" alt="Plot Rate in Reliance Met City Jhajjar">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span class="blog-tag">Pricing</span>
+                            <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                        </div>
+                        <h3 class="blog-title">What is the plot rate in Reliance Met City Jhajjar?</h3>
+                        <p class="blog-excerpt">Know the latest plot rate in Reliance MET City Jhajjar, including pricing trends, location benefits, investment potential, and industrial plot details.</p>
+                        <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
                 <!-- Blog Post: Owner of Reliance MET City -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">

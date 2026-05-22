@@ -432,6 +432,7 @@ $meta_description = "Learn who owns Reliance MET City, India’s leading smart t
                     <div class="sidebar-widget">
                         <h4>Recent Insights</h4>
                         <ul class="recent-posts">
+                            <li><a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">What is the plot rate in Reliance Met City Jhajjar?</a></li>
                             <li><a href="who-is-the-owner-of-reliance-met-city">Who is the owner of Reliance Met City?</a></li>
                             <li><a href="is-it-good-to-invest-in-reliance-met-city">Is It Good to Invest in Reliance MET City?</a></li>
                         </ul>
