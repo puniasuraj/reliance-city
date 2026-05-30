@@ -322,7 +322,7 @@
             <div class="container">
                 <div class="section-heading text-center" style="margin-bottom: 20px;">
                     <!--<span class="luxury-badge">Our Expertise</span>-->
-                    <h2>Our <span class="gold-text">Services</h2>
+                    <h2>Our <span class="gold-text">Services</span></h2>
                     <div class="gold-underline"></div>
                 </div>
 
