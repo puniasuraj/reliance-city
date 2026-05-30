@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Residential Plots | Model Economic Township</title>
+    <title>Residential Plots | MET City</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Explore premium residential plots at Model Economic Township. Experience a luxury lifestyle in a gated community with world-class amenities.">
