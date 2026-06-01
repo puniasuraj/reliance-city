@@ -284,12 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .then(data => {
                 form.reset();
-                const thankYouModal = document.getElementById("thankYouModal");
-                if (thankYouModal) {
-                    thankYouModal.style.display = "flex";
-                } else {
-                    alert("Thank you! Your message has been sent successfully.");
-                }
+                window.location.href = "thank-you";
             })
             .catch(error => {
                 console.error('Error submitting form:', error);
