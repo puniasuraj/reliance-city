@@ -1,5 +1,5 @@
 <?php
-$title = "Thank You | Reliance MET City";
+$title = "Thank You";
 $meta_description = "Thank you for contacting us. Our real estate experts will get back to you shortly.";
 ?>
 <!DOCTYPE html>
@@ -136,7 +136,7 @@ $meta_description = "Thank you for contacting us. Our real estate experts will g
                     <i class="fas fa-check"></i>
                 </div>
                 <h1>Thank <span class="gold-text">You!</span></h1>
-                <p>Your message has been received successfully. Our Reliance MET City property experts will analyze your requirements and get in touch with you shortly.</p>
+                <p>Your message has been received successfully. Our property experts will analyze your requirements and get in touch with you shortly.</p>
                 <a href="/" class="btn-back-home"><i class="fas fa-arrow-left"></i> Back To Home</a>
             </div>
         </section>
