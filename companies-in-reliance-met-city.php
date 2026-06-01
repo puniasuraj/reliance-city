@@ -13,8 +13,8 @@ $meta_description = "Discover the list of major companies, multinational brands,
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
     
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="style.css?v=2.1">
+    <link rel="stylesheet" href="responsive.css?v=2.1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         .single-blog-hero {
@@ -477,3 +477,4 @@ $meta_description = "Discover the list of major companies, multinational brands,
     <?php include 'footer.php'; ?>
 </body>
 </html>
+
