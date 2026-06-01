@@ -158,7 +158,7 @@
                         </div>
                     </div>
                     <div class="contact-right-form">
-                        <form class="modern-form-ui" action="https://formsubmit.co/ichha478@gmail.com" method="POST">
+                        <form class="modern-form-ui" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: Industrial Plots Page">
                             <input type="hidden" name="_template" value="table">

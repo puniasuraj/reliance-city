@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="contact-form-wrapper reveal">
-                    <form class="luxury-contact-form" action="https://formsubmit.co/ichha478@gmail.com" method="POST">
+                    <form class="luxury-contact-form" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry: Contact Page Form">
                         <input type="hidden" name="_template" value="table">
@@ -76,7 +76,7 @@
                         <button type="submit" class="btn-modern-send full-width">Send Message</button>
                     </form>
                     <p style="color: var(--text-muted); font-size: 0.8rem; margin-top: 15px; text-align: center;">
-                        * Leads will be delivered to ichha478@gmail.com
+                        * Leads will be delivered to puniasuraj150@gmail.com
                     </p>
                 </div>
             </div>
