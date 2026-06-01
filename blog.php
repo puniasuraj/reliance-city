@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Blog & Insights - Reliance MET City</title>
+    <title>Blog & Insights</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Read the latest news, updates, and investment insights about Reliance MET City Jhajjar.">
+        content="Read the latest news, updates, and investment insights.">
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">
