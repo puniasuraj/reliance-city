@@ -86,55 +86,56 @@
     "name": "What is Reliance MET City?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Reliance MET City is a large planned township in the Jhajjar district of Haryana. It offers industrial, residential, and commercial plots with modern infrastructure and organized planning."
+      "text": "Reliance MET City is a planned smart industrial city in Jhajjar, Haryana, developed to provide world-class infrastructure for industries, businesses, and future urban development."
     }
   },{
     "@type": "Question",
-    "name": "Who can buy plots at MET City?",
+    "name": "Where is Reliance MET Jhajjar located?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Individuals, companies, manufacturers, and investors can purchase plots depending on their needs."
+      "text": "Reliance MET Jhajjar is located in Jhajjar, Haryana, with excellent connectivity to Delhi NCR, Gurugram, major highways, and key transportation networks."
     }
   },{
     "@type": "Question",
-    "name": "What is the master plan of Reliance MET City?",
+    "name": "Why should businesses invest in Reliance Smart City Haryana?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The master plan includes:
-
--Industrial zones (including Japan Industrial Township)
--Residential communities with green spaces
--Commercial hubs and shopping areas
--Wide roads, power supply, water treatment, sewerage & telecom networks
--Sustainable initiatives like renewable energy and waste management"
+      "text": "The township offers strategic location advantages, advanced infrastructure, seamless connectivity, and strong growth opportunities for businesses across multiple sectors."
     }
   },{
     "@type": "Question",
-    "name": "Is it suitable for industrial use?",
+    "name": "What types of industries can operate in Reliance MET Jhajjar?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, the township is especially planned to support manufacturing units, logistics companies, and warehouses."
+      "text": "The development is suitable for manufacturing, logistics, warehousing, automotive, engineering, electronics, and FMCG industries."
     }
   },{
     "@type": "Question",
-    "name": "Is Reliance MET City a good option for investment?",
+    "name": "What infrastructure facilities are available?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Many investors consider it promising due to its NCR location, large-scale planning, and strong brand backing."
+      "text": "Businesses benefit from wide roads, uninterrupted power supply, water management systems, digital connectivity, green spaces, and well-planned industrial zones."
     }
   },{
     "@type": "Question",
-    "name": "How is the connectivity of Reliance MET City?",
+    "name": "How is the connectivity from Reliance MET Jhajjar to Delhi NCR?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "It is well connected through major highways and expressways, making travel to Delhi, Gurugram, and nearby industrial hubs convenient."
+      "text": "The township is well-connected to Delhi NCR through national highways, rail networks, airports, and freight corridors, making transportation efficient and convenient."
     }
   },{
     "@type": "Question",
-    "name": "Price of plots in Reliance MET City Jhajjar",
+    "name": "Is Reliance Smart City suitable for logistics and warehousing companies?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Plot prices vary by size and location. Residential plots typically range between ₹76,000 to ₹85,500 per sq. yard, depending on market trends and sector positioning."
+      "text": "Yes, its strategic location and access to major transportation routes make it an ideal destination for logistics, warehousing, and supply chain operations."
+    }
+  },{
+    "@type": "Question",
+    "name": "What makes Reliance Smart City Haryana different from other industrial townships?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Its smart-city planning, future-ready infrastructure, sustainable development approach, and integrated business ecosystem distinguish it from traditional industrial parks."
     }
   }]
 }
@@ -210,10 +211,10 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            It is a world-class integrated economic township developed by <a href="https://www.ril.com/">Reliance Industries Limited</a> in Jhajjar, Haryana. Designed with a forward-thinking approach, it seamlessly combines industrial, residential, and commercial spaces within one well-planned ecosystem. The township features robust infrastructure, wide internal roads, reliable utilities, and future-ready facilities that support sustainable growth and smooth operations.
+                            Reliance MET City is a world-class integrated smart city and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            For business owners and investors, industrial plots in Reliance MET City present a promising opportunity for expansion and long-term returns. Its strategic location near major highways and key markets ensures excellent connectivity, making it an ideal destination for manufacturing units, warehousing facilities, and logistics hubs.
+                            Spread across a vast area, Reliance MET City combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, Reliance MET City continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
                             <a href="about-us" class="btn-gold-sm">Know More</a>
@@ -1061,83 +1062,84 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Reliance MET City is a large planned township in the Jhajjar district of Haryana. It offers industrial, residential, and commercial plots with modern infrastructure and organized planning.</p>
+                                    <p>Reliance MET City is a planned smart industrial city in Jhajjar, Haryana, developed to provide world-class infrastructure for industries, businesses, and future urban development.</p>
                                 </div>
                             </div>
 
                             <!-- Q2 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Who can buy plots at MET City?</span>
+                                    <span>Where is Reliance MET Jhajjar located?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Individuals, companies, manufacturers, and investors can purchase plots depending on their needs.</p>
+                                    <p>Reliance MET Jhajjar is located in Jhajjar, Haryana, with excellent connectivity to Delhi NCR, Gurugram, major highways, and key transportation networks.</p>
                                 </div>
                             </div>
 
                             <!-- Q3 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>What is the master plan of Reliance MET City?</span>
+                                    <span>Why should businesses invest in Reliance Smart City Haryana?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>The master plan includes:</p>
-                                    <ul>
-                                        <li>-Industrial zones (including Japan Industrial Township)</li>
-                                        <li>-Residential communities with green spaces</li>
-                                        <li>-Commercial hubs and shopping areas</li>
-                                        <li>-Wide roads, power supply, water treatment, sewerage & telecom networks</li>
-                                        <li>-Sustainable initiatives like renewable energy and waste management</li>
-                                    </ul>
+                                    <p>The township offers strategic location advantages, advanced infrastructure, seamless connectivity, and strong growth opportunities for businesses across multiple sectors.</p>
                                 </div>
                             </div>
 
                             <!-- Q4 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Is it suitable for industrial use?</span>
+                                    <span>What types of industries can operate in Reliance MET Jhajjar?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Yes, the township is especially planned to support manufacturing units, logistics companies, and warehouses.</p>
+                                    <p>The development is suitable for manufacturing, logistics, warehousing, automotive, engineering, electronics, and FMCG industries.</p>
                                 </div>
                             </div>
 
                             <!-- Q5 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Is Reliance MET City a good option for investment?</span>
+                                    <span>What infrastructure facilities are available?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Many investors consider it promising due to its NCR location, large-scale planning, and strong brand backing.</p>
+                                    <p>Businesses benefit from wide roads, uninterrupted power supply, water management systems, digital connectivity, green spaces, and well-planned industrial zones.</p>
                                 </div>
                             </div>
 
                             <!-- Q6 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>How is the connectivity of Reliance MET City?</span>
+                                    <span>How is the connectivity from Reliance MET Jhajjar to Delhi NCR?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>It is well connected through major highways and expressways, making travel to Delhi, Gurugram, and nearby industrial hubs convenient.</p>
+                                    <p>The township is well-connected to Delhi NCR through national highways, rail networks, airports, and freight corridors, making transportation efficient and convenient.</p>
                                 </div>
                             </div>
 
                             <!-- Q7 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Price of plots in Reliance MET City Jhajjar</span>
+                                    <span>Is Reliance Smart City suitable for logistics and warehousing companies?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Plot prices vary by size and location. Residential plots typically range between
-                                        <strong>₹76,000 to ₹85,500 per sq. yard</strong>, depending on market trends
-                                        and sector positioning.
-                                    </p>
+                                    <p>Yes, its strategic location and access to major transportation routes make it an ideal destination for logistics, warehousing, and supply chain operations.</p>
+                                </div>
+                            </div>
+
+                            <!-- Q8 -->
+                            <div class="faq-item-modern">
+                                <div class="faq-header-modern">
+                                    <span>What makes Reliance Smart City Haryana different from other industrial townships?</span>
+                                    <div class="faq-icon-circle">+</div>
+                                </div>
+                                <div class="faq-body-modern">
+                                    <p>Its smart-city planning, future-ready infrastructure, sustainable development approach, and integrated business ecosystem distinguish it from traditional industrial parks.</p>
                                 </div>
                             </div>
                         </div>
