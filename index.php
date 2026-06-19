@@ -9,7 +9,7 @@
     <title>Reliance Met City | 7450053004 | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Invest in premium luxury living at Reliance Met City Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+        content="Invest in premium luxury living at Reliance Met City. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
     <meta name="keywords"
         content="Reliance MET City, Reliance MET City Residential Plots, Reliance MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
         
