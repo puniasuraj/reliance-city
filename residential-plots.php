@@ -44,7 +44,7 @@
                         <div class="about-breadcrumb">[<span>Lifestyle</span>]</div>
                         <h2 class="about-main-title">Modern <span class="gold-text">Living</span> Redefined</h2>
                         <p class="about-overview-text">
-                            Residential plots at Reliance MET City provide an unparalleled opportunity to build a custom home within a world-class integrated township. Each sector is planned with a focus on green spaces, wide roads, and modern infrastructure.
+                            Residential plots at Model Economic Township provide an unparalleled opportunity to build a custom home within a world-class integrated township. Each sector is planned with a focus on green spaces, wide roads, and modern infrastructure.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
                             Being part of a Reliance Industries project, residents benefit from premium security, uninterrupted utilities, and proximity to major economic hubs, ensuring both a high quality of life and exceptional investment appreciation.
