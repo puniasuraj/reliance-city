@@ -44,7 +44,7 @@
                         <div class="about-breadcrumb">[<span>Infrastructure</span>]</div>
                         <h2 class="about-main-title">A Hub for <span class="gold-text">Global</span> Industry</h2>
                         <p class="about-overview-text">
-                            Reliance MET City offers world-class industrial plots designed to support large-scale manufacturing and logistics. Strategically positioned near the KMP Expressway, the township provides seamless connectivity to Delhi, Gurugram, and the larger NCR region.
+                            Model Economic Township offers world-class industrial plots designed to support large-scale manufacturing and logistics. Strategically positioned near the KMP Expressway, the township provides seamless connectivity to Delhi, Gurugram, and the larger NCR region.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
                             Industrialists benefit from robust infrastructure including dedicated power substations, gas pipelines, water treatment plants, and wide arterial roads designed for heavy vehicle movement. It is an ideal destination for sustainable business growth.
