@@ -9,6 +9,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Read the latest news, updates, and investment insights.">
+    <link rel="canonical" href="https://metjhajjarplots.com/blog" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

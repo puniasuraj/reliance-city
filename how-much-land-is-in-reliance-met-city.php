@@ -12,6 +12,7 @@ $meta_description = "Discover the exact land area and size of Reliance MET City 
     <title><?php echo $title; ?></title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
+    <link rel="canonical" href="https://metjhajjarplots.com/how-much-land-is-in-reliance-met-city" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

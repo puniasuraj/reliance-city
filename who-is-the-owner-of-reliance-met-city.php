@@ -12,6 +12,7 @@ $meta_description = "Learn who owns Reliance MET City, India’s leading smart t
     <title><?php echo $title; ?></title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
+    <link rel="canonical" href="https://metjhajjarplots.com/who-is-the-owner-of-reliance-met-city" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

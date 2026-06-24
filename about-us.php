@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Learn about Model Economic Township, a world-class integrated economic township. Discover a hub of industrial, residential, and commercial excellence.">
+    <link rel="canonical" href="https://metjhajjarplots.com/about-us" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

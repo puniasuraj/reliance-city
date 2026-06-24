@@ -12,6 +12,7 @@ $meta_description = "Know the latest plot rate in Reliance MET City Jhajjar, inc
     <title><?php echo $title; ?></title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
+    <link rel="canonical" href="https://metjhajjarplots.com/what-is-the-plot-rate-in-reliance-met-city-jhajjar" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Explore premium residential plots at Model Economic Township. Experience a luxury lifestyle in a gated community with world-class amenities.">
+    <link rel="canonical" href="https://metjhajjarplots.com/residential-plots" />
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Reliance Met City | 7450053004 | Residential Plots</title>
+    <title>Reliance MET City Jhajjar | Premium Residential & Industrial Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Invest in premium luxury living at Reliance Met Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+        content="Explore premium residential and industrial plots in Reliance MET City, Jhajjar. Discover modern integrated township projects, current plot rates, and book site visits.">
     <meta name="keywords"
         content="Reliance MET City, MET City Residential Plots, MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
         
@@ -17,10 +17,10 @@
     <link rel="canonical" href="https://metjhajjarplots.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Reliance Met City | 7450053004 | Residential Plots">
-    <meta property="og:description" content="Invest in premium luxury living at Reliance Smart City, Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+    <meta property="og:title" content="Reliance MET City Jhajjar | Premium Residential & Industrial Plots">
+    <meta property="og:description" content="Explore premium residential and industrial plots in Reliance MET City, Jhajjar. Discover modern integrated township projects, current plot rates, and book site visits.">
     <meta property="og:image" content="assets/banner.webp">
-    <meta property="og:url" content="https://metjhajjarplots.com">
+    <meta property="og:url" content="https://metjhajjarplots.com/">
     <meta name="google-site-verification" content="wuYLWjRj37glHjgesHII8iWRkaVlL2cOfMHnrNQqje8" />
 
     <!-- Schema.org for Real Estate & FAQ -->
@@ -28,10 +28,10 @@
 {
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
-  "name": "Reliance Met City",
-  "image": "",
-  "@id": "",
-  "url": "",
+  "name": "Reliance MET City Plots",
+  "image": "https://metjhajjarplots.com/assets/logo.webp",
+  "@id": "https://metjhajjarplots.com/#realestateagent",
+  "url": "https://metjhajjarplots.com/",
   "telephone": "+91 7450053004",
   "address": {
     "@type": "PostalAddress",
@@ -163,7 +163,7 @@
             <div class="container hero-grid">
                 <div class="hero-content reveal">
                     <span class="luxury-badge">Exclusive Opportunity</span>
-                    <h1>Premium <span class="gold-text">Living Begins</span> at Reliance Met City</h1>
+                    <h1><span class="gold-text">Reliance MET City</span> Jhajjar - Premium Plots & Luxury Living</h1>
                     <p>Step into a landmark destination that blends superior infrastructure with refined living, developed by Reliance Industries.</p>
                     <a href="#pricing" class="btn-gold">Explore Plots</a>
                 </div>
@@ -395,35 +395,35 @@
                 <div class="scroller-inner">
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_1.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 1" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City township entrance and green spaces" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_2.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 2" loading="lazy" decoding="async"></div>
+                            alt="Premium residential plots development in Reliance MET City Jhajjar" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_3.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 3" loading="lazy" decoding="async"></div>
+                            alt="Infrastructure construction and road network in Reliance MET City" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_4.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 4" loading="lazy" decoding="async"></div>
+                            alt="Model Economic Township industrial plots zone layout" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_5.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 5" loading="lazy" decoding="async"></div>
+                            alt="Commercial project site development at Reliance MET City Jhajjar" loading="lazy" decoding="async"></div>
                     <!-- Duplicate for seamless loop -->
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_1.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 1" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City township entrance and green spaces" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_2.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 2" loading="lazy" decoding="async"></div>
+                            alt="Premium residential plots development in Reliance MET City Jhajjar" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_3.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 3" loading="lazy" decoding="async"></div>
+                            alt="Infrastructure construction and road network in Reliance MET City" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_4.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 4" loading="lazy" decoding="async"></div>
+                            alt="Model Economic Township industrial plots zone layout" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_5.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 5" loading="lazy" decoding="async"></div>
+                            alt="Commercial project site development at Reliance MET City Jhajjar" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </section>
